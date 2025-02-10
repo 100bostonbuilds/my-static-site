@@ -1,17 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="90px" height="52px" viewBox="0 115.731 90 52" enable-background="new 0 115.731 90 52" xml:space="preserve">
-<g>
-	<polyline fill="#1D1D1B" points="30.208,144.657 11.722,144.657 7.873,156.554 0,156.554 13.122,115.731 20.994,115.731 
-		13.879,137.951 27.992,137.951 20.994,115.731 29.217,115.731 42.28,156.554 34.058,156.554 30.208,144.657 	"/>
-	<path fill="#1D1D1B" d="M43.85,126.345h7.465v3.149c1.167-1.69,4.082-3.615,8.165-3.615c7.756,0,13.705,5.423,13.705,15.454
-		c0,10.381-5.948,15.805-13.705,15.805c-3.499,0-6.473-1.518-8.165-3.267v13.763H43.85V126.345z M65.778,141.333
-		c0-5.656-3.091-9.097-7.582-9.097c-4.432,0-7.523,3.266-7.523,9.097c0,6.124,3.149,9.448,7.523,9.448
-		C62.628,150.78,65.778,147.281,65.778,141.333z"/>
-	<path fill="#1D1D1B" d="M86.384,150.722H90v5.773c-2.158,0.117-3.44,0.117-6.007,0.117c-5.132,0-8.397-1.516-8.397-8.164v-16.504
-		h5.657c-3.441-0.758-5.657-2.916-5.657-8.339v-4.024h7.406v3.032c0,3.208,0.991,3.732,3.558,3.732H90v5.599
-		c-1.575,0.233-3.091,0.292-5.249,0.292c-0.467,0-1.283-0.059-1.75-0.117v14.871C83.002,150.197,83.993,150.722,86.384,150.722"/>
-</g>
+<svg width="460" height="100" viewBox="0 0 1000 500" xmlns="http://www.w3.org/2000/svg">
+  <text x="5" y="160" font-family="Arial, sans-serif" font-size="148">
+    <tspan font-weight="bold">100</tspan><tspan font-weight="normal"> Boston Builds</tspan>
+  </text>
 </svg>
+<!-- 
+Change Font Size: Adjust font-size="48" for different sizes.
+Change Font Color: Modify fill="black" to any color (e.g., #0056b3).
+Positioning: Modify x and y values for alignment.
+-->
